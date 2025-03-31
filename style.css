@@ -75,5 +75,5 @@ border-radius: 8px;
 a:hover{
 background-color:var(--purple);
 color: var(--white);
-transition: 0.3s;
+transition: 0.6s;
 }
